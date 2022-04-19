@@ -1,0 +1,112 @@
+*{
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.header {
+  width: 100%;
+  height: auto;
+  display: block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  margin-bottom: 75px;
+  background-image: url('../images/pattern.jpeg')
+}
+
+.hacksaw {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 25px;
+}
+
+.brush-text {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.brush-header {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 44px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  margin-bottom: 30px;
+}
+
+.brush-paragraph {
+  margin-top: 25px;
+}
+
+#brush-price {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+.frame-header {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.frame-image {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 25px;
+}
+
+.frame-text {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.frame-paragraph {
+  margin-top: 25px;
+}
+
+#frame-price {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+.paint-header {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.paint-image {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 25px;
+}
+
+.paint-text {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.paint-paragraph {
+  margin-top: 25px;
+}
+
+#paint-price {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
